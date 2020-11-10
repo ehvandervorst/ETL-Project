@@ -1,192 +1,191 @@
-Country,GDP per capita,ISO-code
-Afghanistan,2182,AFG
-Albania,14866,ALB
-Algeria,16091,DZA
-Angola,6763,AGO
-Antigua and Barbuda,30593,ATG
-Argentina,19971,ARG
-Armenia,11845,ARM
-Australia,54799,AUS
-Austria,55171,AUT
-Azerbaijan,19156,AZE
-Bahrain,51991,BHR
-Bangladesh,5453,BGD
-Barbados,19364,BRB
-Belarus,21224,BLR
-Belgium,50904,BEL
-Belize,8791,BLZ
-Benin,3648,BEN
-Bhutan,10627,BTN
-Bolivia,8525,BOL
-Bosnia and Herzegovina,14894,BIH
-Botswana,19388,BWA
-Brazil,17106,BRA
-Brunei,85011,BRN
-Bulgaria,26034,BGR
-Burkina Faso,2181,BFA
-Burundi,724,BDI
-Cambodia,5004,KHM
-Cameroon,4099,CMR
-Canada,52144,CAN
-Cape Verde,8716,CPV
-Central African Republic,864,CAF
-Chad,2603,TCD
-Chile,27150,CHL
-China,20984,CHN
-Colombia,16265,COL
-Comoros,2898,COM
-Costa Rica,18651,CRI
-Croatia,29207,HRV
-Cuba,8822,CUB
-Cyprus,42956,CYP
-Czech Republic,40585,CZE
-Democratic Republic of the Congo,873,COD
-Denmark,55675,DNK
-Djibouti,5855,DJI
-Dominica,12851,DMA
-Dominican Republic,20625,DOM
-East Timor,5321,TLS
-Ecuador,11866,ECU
-Egypt,14800,EGY
-El Salvador,8593,SLV
-Equatorial Guinea,19961,GNQ
-Eritrea,1103,ERI
-Estonia,37606,EST
-Eswatini,11139,SWZ
-Ethiopia,2702,ETH
-Fiji,12689,FJI
-Finland,49548,FIN
-France,48640,FRA
-Gabon,19839,GAB
-Georgia,13200,GEO
-Germany,55306,DEU
-Ghana,7343,GHA
-Greece,31616,GRC
-Greenland,48182,GRL
-Grenada,17434,GRD
-Guatemala,9009,GTM
-Guinea,2574,GIN
-Guinea,2113,GIN
-Guyana,17163,GUY
-Haiti,1916,HTI
-Honduras,5600,HND
-Hong Kong,66527,HKG
-Hungary,35941,HUN
-Iceland,56974,ISL
-India,9027,IND
-Indonesia,14841,IDN
-Iran,17832,IRN
-Iraq,18755,IRQ
-Ireland,86988,IRL
-Israel,40337,ISR
-Italy,41582,ITA
-Ivory Coast,4754,CIV
-Jamaica,9932,JAM
-Japan,46827,JPN
-Jordan,9939,JOR
-Kazakhstan,30178,KAZ
-Kenya,4078,KEN
-Kiribati,2193,KIR
-Kuwait,67891,KWT
-Kyrgyzstan,4193,KGZ
-Laos,8684,LAO
-Latvia,32987,LVA
-Lebanon,15599,LBN
-Lesotho,3655,LSO
-Liberia,1428,LBR
-Libya,9446,LBY
-Lithuania,38751,LTU
-Luxembourg,112045,LUX
-Macau,113352,MAC
-Madagascar,1776,MDG
-Malawi,1292,MWI
-Malaysia,34567,MYS
-Maldives,24796,MDV
-Mali,2569,MLI
-Malta,49589,MLT
-Marshall Islands,3972,MHL
-Mauritania,5158,MRT
-Mauritius,26461,MUS
-Mexico,21363,MEX
-Micronesia,3657,FSM
-Moldova,8161,MDA
-Mongolia,15089,MNG
-Montenegro,21977,MNE
-Morocco,9667,MAR
-Mozambique,1372,MOZ
-Myanmar,7220,MMR
-Namibia,11451,NAM
-Nauru,9073,NRU
-Nepal,3550,NPL
-Netherlands,60299,NLD
-New Zealand,42045,NZL
-Nicaragua,5297,NIC
-Niger,1152,NER
-Nigeria,6172,NGA
-North Macedonia,17378,MKD
-Norway,79638,NOR
-Oman,48593,OMN
-Pakistan,6016,PAK
-Palau,16855,PLW
-Panama,28456,PAN
-Papua New Guinea,4081,PNG
-Paraguay,13213,PRY
-Peru,15399,PER
-Philippines,10094,PHL
-Poland,35651,POL
-Portugal,34936,PRT
-Puerto Rico,41198,PRI
-Republic of the Congo,7336,COG
-Romania,29555,ROU
-Russia,30820,RUS
-Rwanda,2642,RWA
-Saint Kitts and Nevis,31950,KNA
-Saint Lucia,15159,LCA
-Saint Vincent and the Grenadines,12983,VCT
-Samoa,6493,WSM
-San Marino,62913,SMR
-Saudi Arabia,56912,SAU
-Senegal,4079,SEN
-Serbia,19767,SRB
-Seychelles,33118,SYC
-Sierra Leone,1765,SLE
-Singapore,105689,SGP
-Slovakia,38321,SVK
-Slovenia,40344,SVN
-Solomon Islands,2363,SLB
-Somalia,314.5,SOM
-South Africa,13965,ZAF
-South Korea,46452,KOR
-South Sudan,1715,SSD
-Spain,43007,ESP
-Sri Lanka,14509,LKA
-Sudan,3986,SDN
-Suriname,16044,SUR
-Sweden,55989,SWE
-Switzerland,67558,CHE
-Taiwan,57214,TWN
-Tajikistan,3751,TJK
-Tanzania,3652,TZA
-Thailand,21361,THA
-The Bahamas,33432,BHS
-The Gambia,2892,GMB
-Togo,1913,TGO
-Tonga,6867,TON
-Trinidad and Tobago,33713,TTO
-Tunisia,13093,TUN
-Turkey,29327,TUR
-Turkmenistan,21855,TKM
-Tuvalu,4535,TUV
-Uganda,2753,UGA
-Ukraine,10130,UKR
-United Arab Emirates,70441,ARE
-United Kingdom,48169,GBR
-United States,67426,USA
-Uruguay,24516,URY
-Uzbekistan,9595,UZB
-Vanuatu,3039,VUT
-Venezuela,16055,VEN
-Vietnam,8677,VNM
-Yemen,2312,YEM
-Zambia,4174,ZMB
-Zimbabwe,2778,ZWE
+Country,GDP per capita
+Afghanistan,2182
+Albania,14866
+Algeria,16091
+Angola,6763
+Antigua and Barbuda,30593
+Argentina,19971
+Armenia,11845
+Australia,54799
+Austria,55171
+Azerbaijan,19156
+Bahrain,51991
+Bangladesh,5453
+Barbados,19364
+Belarus,21224
+Belgium,50904
+Belize,8791
+Benin,3648
+Bhutan,10627
+Bolivia,8525
+Bosnia and Herzegovina,14894
+Botswana,19388
+Brazil,17106
+Brunei,85011
+Bulgaria,26034
+Burkina Faso,2181
+Burundi,724
+Cambodia,5004
+Cameroon,4099
+Canada,52144
+Cape Verde,8716
+Central African Republic,864
+Chad,2603
+Chile,27150
+China,20984
+Colombia,16265
+Comoros,2898
+Costa Rica,18651
+Croatia,29207
+Cuba,8822
+Cyprus,42956
+Czech Republic,40585
+Democratic Republic of the Congo,873
+Denmark,55675
+Djibouti,5855
+Dominica,12851
+Dominican Republic,20625
+East Timor,5321
+Ecuador,11866
+Egypt,14800
+El Salvador,8593
+Equatorial Guinea,19961
+Eritrea,1103
+Estonia,37606
+Eswatini,11139
+Ethiopia,2702
+Fiji,12689
+Finland,49548
+France,48640
+Gabon,19839
+Georgia,13200
+Germany,55306
+Ghana,7343
+Greece,31616
+Greenland,48182
+Grenada,17434
+Guatemala,9009
+Guinea,2574
+Guyana,17163
+Haiti,1916
+Honduras,5600
+Hong Kong,66527
+Hungary,35941
+Iceland,56974
+India,9027
+Indonesia,14841
+Iran,17832
+Iraq,18755
+Ireland,86988
+Israel,40337
+Italy,41582
+Ivory Coast,4754
+Jamaica,9932
+Japan,46827
+Jordan,9939
+Kazakhstan,30178
+Kenya,4078
+Kiribati,2193
+Kuwait,67891
+Kyrgyzstan,4193
+Laos,8684
+Latvia,32987
+Lebanon,15599
+Lesotho,3655
+Liberia,1428
+Libya,9446
+Lithuania,38751
+Luxembourg,112045
+Macau,113352
+Madagascar,1776
+Malawi,1292
+Malaysia,34567
+Maldives,24796
+Mali,2569
+Malta,49589
+Marshall Islands,3972
+Mauritania,5158
+Mauritius,26461
+Mexico,21363
+Micronesia,3657
+Moldova,8161
+Mongolia,15089
+Montenegro,21977
+Morocco,9667
+Mozambique,1372
+Myanmar,7220
+Namibia,11451
+Nauru,9073
+Nepal,3550
+Netherlands,60299
+New Zealand,42045
+Nicaragua,5297
+Niger,1152
+Nigeria,6172
+North Macedonia,17378
+Norway,79638
+Oman,48593
+Pakistan,6016
+Palau,16855
+Panama,28456
+Papua New Guinea,4081
+Paraguay,13213
+Peru,15399
+Philippines,10094
+Poland,35651
+Portugal,34936
+Puerto Rico,41198
+Republic of the Congo,7336
+Romania,29555
+Russia,30820
+Rwanda,2642
+Saint Kitts and Nevis,31950
+Saint Lucia,15159
+Saint Vincent and the Grenadines,12983
+Samoa,6493
+San Marino,62913
+Saudi Arabia,56912
+Senegal,4079
+Serbia,19767
+Seychelles,33118
+Sierra Leone,1765
+Singapore,105689
+Slovakia,38321
+Slovenia,40344
+Solomon Islands,2363
+Somalia,314.5
+South Africa,13965
+South Korea,46452
+South Sudan,1715
+Spain,43007
+Sri Lanka,14509
+Sudan,3986
+Suriname,16044
+Sweden,55989
+Switzerland,67558
+Taiwan,57214
+Tajikistan,3751
+Tanzania,3652
+Thailand,21361
+The Bahamas,33432
+The Gambia,2892
+Togo,1913
+Tonga,6867
+Trinidad and Tobago,33713
+Tunisia,13093
+Turkey,29327
+Turkmenistan,21855
+Tuvalu,4535
+Uganda,2753
+Ukraine,10130
+United Arab Emirates,70441
+United Kingdom,48169
+United States,67426
+Uruguay,24516
+Uzbekistan,9595
+Vanuatu,3039
+Venezuela,16055
+Vietnam,8677
+Yemen,2312
+Zambia,4174
+Zimbabwe,2778
