@@ -1,4 +1,4 @@
-CREATE Table combined3 as (
+CREATE Table combined as (
 SELECT urbanization_rate.country as urbanization_rate_country,
     urbanization_rate.urbanization_rate,
     suicide_rate.suicide_rate,
@@ -13,14 +13,14 @@ SELECT urbanization_rate.country as urbanization_rate_country,
     happiness_score.generosity,
     happiness_score.perceptions_of_corruption
    FROM urbanization_rate
-     FULL OUTER JOIN suicide_rate ON
+     FULL OUTER JOIN suicide_rate ON 
 	urbanization_rate.country = suicide_rate.country
-     FULL OUTER JOIN meat_consumption ON
+     FULL OUTER JOIN meat_consumption ON 
 	urbanization_rate.country = meat_consumption.country
-     FULL OUTER JOIN gdp_per_capita
+     FULL OUTER JOIN gdp_per_capita 
 	ON urbanization_rate.country = gdp_per_capita.country
-     FULL OUTER JOIN fertility ON
+     FULL OUTER JOIN fertility ON 
 	urbanization_rate.country = fertility.country
-     FULL OUTER JOIN happiness_score
+     FULL OUTER JOIN happiness_score 
 	ON urbanization_rate.country = happiness_score.country_name
 	);
